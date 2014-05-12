@@ -1,0 +1,24 @@
+{ "index": { "_index" : "sample-index", "_type" : "type_1", "_id" : 1}}
+{ "@timestamp" : "2014-05-08T09:15:30.000Z", "value_1" : 57 }
+{ "index": { "_index" : "sample-index", "_type" : "type_1", "_id" : 2}}
+{ "@timestamp" : "2014-05-08T09:15:31.000Z", "value_1" : 61 } 
+{ "index": { "_index" : "sample-index", "_type" : "type_1", "_id" : 3}}
+{ "@timestamp" : "2014-05-08T09:15:32.000Z", "value_1" : 74 } 
+{ "index": { "_index" : "sample-index", "_type" : "type_1", "_id" : 4}}
+{ "@timestamp" : "2014-05-08T09:15:33.000Z", "value_1" : 60 } 
+{ "index": { "_index" : "sample-index", "_type" : "type_2", "_id" : 1}}
+{ "@timestamp" : "2014-05-08T09:15:30.000Z", "value_2" : 5 }
+{ "index": { "_index" : "sample-index", "_type" : "type_2", "_id" : 2}}
+{ "@timestamp" : "2014-05-08T09:15:31.000Z", "value_2" : 6 }
+{ "index": { "_index" : "sample-index", "_type" : "type_2", "_id" : 3}}
+{ "@timestamp" : "2014-05-08T09:15:32.000Z", "value_2" : 7 }
+{ "index": { "_index" : "sample-index", "_type" : "type_2", "_id" : 4}}
+{ "@timestamp" : "2014-05-08T09:15:33.000Z", "value_2" : 6 }
+{ "index": { "_index" : "sample-index", "_type" : "type_3", "_id" : 1}}
+{ "@timestamp" : "2014-05-08T09:15:30.000Z", "value_3" : 19 }
+{ "index": { "_index" : "sample-index", "_type" : "type_3", "_id" : 2}}
+{ "@timestamp" : "2014-05-08T09:15:31.000Z", "value_3" : 32 }
+{ "index": { "_index" : "sample-index", "_type" : "type_3", "_id" : 3}}
+{ "@timestamp" : "2014-05-08T09:15:32.000Z", "value_3" : 89 }
+{ "index": { "_index" : "sample-index", "_type" : "type_3", "_id" : 4}}
+{ "@timestamp" : "2014-05-08T09:15:33.000Z", "value_3" : 45 }

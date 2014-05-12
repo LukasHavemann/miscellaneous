@@ -1,0 +1,16 @@
+Hello, 
+
+at first: We really enjoy working with Kibana! It's a great peace of software!
+
+But we think there is a little bug in it. The zip file contains some sample data and a preconfigured dashboard. 
+We also added a edited screenshot that shows what we would expect to happen if you activate all pinned querys on the dashboard.
+
+Just active/deactive some of the pinned querys and look at the histogramms.
+
+We think its the same bug as galindro mentioned in issue #758. 	
+
+Best regards,
+Lukas Havemann 
+
+
+https://github.com/elasticsearch/kibana/issues/758
