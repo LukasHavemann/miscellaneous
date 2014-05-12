@@ -10,7 +10,7 @@
           "id": 0,
           "pin": true,
           "type": "lucene",
-          "enable": false
+          "enable": true
         },
         "1": {
           "id": 1,
@@ -24,7 +24,7 @@
         "2": {
           "id": 2,
           "color": "#6ED0E0",
-          "alias": "Query for Documents type_2",
+          "alias": "Query for Documents type_3",
           "pin": true,
           "type": "lucene",
           "enable": true,
@@ -82,6 +82,7 @@
           "queries": {
             "mode": "all",
             "ids": [
+              0,
               1,
               2
             ]
@@ -156,6 +157,7 @@
           "queries": {
             "mode": "all",
             "ids": [
+              0,
               1,
               2
             ]
@@ -230,6 +232,7 @@
           "queries": {
             "mode": "all",
             "ids": [
+              0,
               1,
               2
             ]
@@ -329,6 +332,7 @@
           "queries": {
             "mode": "all",
             "ids": [
+              0,
               1,
               2
             ]
